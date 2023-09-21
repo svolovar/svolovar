@@ -14,6 +14,11 @@
 - External monitor
 - Laptop router
 
+<h2>Certifications</h2>
+- ITIL
+- Comptia Project +
+- Google IT support professional
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
