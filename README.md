@@ -1,6 +1,6 @@
 <h1>Hi, I'm Steven! <br/><a href="https://github.com/svolovar">Programmer</a> </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>Software Development Projects:</h2>
 
 - <b>Java</b>
   - Software I
@@ -11,8 +11,8 @@
 
 <h2>Hardware Projects</h2>
 
-- External monitor
-- Laptop router
+- [DIY External Monitor](https://github.com/svolovar/DIY-Monitor)
+- [Laptop converted into router](https://github.com/svolovar/laptop-router)
 
 <h2>Certifications</h2>
 
