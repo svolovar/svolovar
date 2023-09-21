@@ -15,6 +15,7 @@
 - Laptop router
 
 <h2>Certifications</h2>
+
 - ITIL
 - Comptia Project +
 - Google IT support professional
