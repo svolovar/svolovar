@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven! <br/><a href="https://github.com/svolovar">Programmer</a> </h1>
+<h1>Hi, I'm Steven!</h1>
 
 <h2>Software Development Projects:</h2>
 
