@@ -6,8 +6,8 @@
   - [Car parts inventory program](https://github.com/svolovar/car-parts-inventory)
   - [Appointment scheduling and management program](https://github.com/svolovar/appointment-scheduler)
 - <b>Python</b>
-  - Package routing
-  - Car price predictor
+  - [Car Price Prediction Program](https://github.com/svolovar/car-price-predictor)
+  - [Optimal Delivery Route program](https://github.com/svolovar/Optimal-delivery-route-program)
 
 <h2>Hardware Projects</h2>
 
