@@ -3,8 +3,8 @@
 <h2>Software Development Projects:</h2>
 
 - <b>Java</b>
-  - Software I
-  - Software II
+  - [Car parts inventory program](https://github.com/svolovar/car-parts-inventory)
+  - [Appointment scheduling and management program](https://github.com/svolovar/appointment-scheduler)
 - <b>Python</b>
   - Package routing
   - Car price predictor
